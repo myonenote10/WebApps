@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\myproject",
+    "\\myproject\\src",
+    "\\myproject\\src\\app"
   ],
-  "SelectedNode": "\\C:\\Users\\nidhi\\Source\\Repos\\WebApps",
+  "SelectedNode": "\\myproject\\src\\app\\app.component.ts",
   "PreviewInSolutionExplorer": false
 }
