@@ -12,4 +12,5 @@ export class AppComponent {
   //f3
   //f4
   //f5
+  //f6 for reset(local commit only)
 }
