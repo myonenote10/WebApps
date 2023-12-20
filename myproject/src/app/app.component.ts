@@ -7,9 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myproject';
-//d2
-  //d3
-  //d4
-  //cherry pick test 1
-  //f1
+//f1
 }
