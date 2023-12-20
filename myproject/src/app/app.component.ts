@@ -9,5 +9,4 @@ export class AppComponent {
   title = 'myproject';
 //f1
   //f2
-  //f3
 }
